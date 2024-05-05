@@ -1,11 +1,11 @@
 ![image](https://github.com/BestMat/bestserver-bestdeveloper/assets/76582849/cf22b991-2309-4481-adb7-c724c2b02736)
 <h1 align="center">
   <kbd>
-    <img src="https://skillicons.dev/icons?i=java"/>
+    <img src="https://skillicons.dev/icons?i=javascript"/>
   </kbd>
   BestAuth - BestDeveloper
   <kbd>
-    <img src="https://skillicons.dev/icons?i=java"/>
+    <img src="https://skillicons.dev/icons?i=javascript"/>
   </kbd>
 </h1>
 
