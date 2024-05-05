@@ -23,3 +23,7 @@
 <p align="center">
   <b>★ Build amazing applications to authenticate your users with BestDeveloper. ★</b>
 </p>
+
+***
+
+©2024 - BestDeveloper - BestMat, Inc. - All rights reserved.
