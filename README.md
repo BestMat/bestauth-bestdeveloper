@@ -24,6 +24,8 @@
   <b>★ Build amazing applications to authenticate your users with BestDeveloper. ★</b>
 </p>
 
+Note: This SDK is written in **Node.js**. For a V8 Runtime - JavaScript (Vanilla/Web): use https://github.com/BestMat/bestauth-bestdeveloper-js/
+
 ***
 
 ©2024 - BestDeveloper - BestMat, Inc. - All rights reserved.
